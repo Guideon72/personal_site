@@ -34,7 +34,7 @@ with col2:
     st.info(content)
 
 with st.sidebar:
-    st.text("This is my sidebar; there is only one like it.")
+    st.text("")
 
 # app_content = (
 #     """Here are a few of the web apps built using Python during the video course"""
